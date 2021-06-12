@@ -18,7 +18,7 @@
 
 **First aid hotline for advice**
 
-+1 702-475-6852
++1 702-475-6852<br>
 +91 8449449875
 
 *Tip: you can dial international numbers for free using Google Hangouts*

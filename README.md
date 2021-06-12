@@ -1,6 +1,12 @@
 # iAid
 
-## Installation 
+## Installation For Application
+1. Open Andriod Studio 
+2. Download the zip code file and unzip it
+3. Run the code(Make sure you have flutter Installed)
+4. Use Cross platform ability to have a wider use 
+
+## Installation For Bot
 
 1. Download the iAidBot folder
 2. Import to Dialoglfow platform
@@ -13,6 +19,7 @@
 **First aid hotline for advice**
 
 +1 702-475-6852
++91 8449449875
 
 *Tip: you can dial international numbers for free using Google Hangouts*
 

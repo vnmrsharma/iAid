@@ -6,6 +6,9 @@
 3. Run the code(Make sure you have flutter Installed)
 4. Experience Cross platform ability to have a wider use 
 
+## Application OutLooks
+
+
 ## Installation For Bot
 
 1. Download the iAidBot folder

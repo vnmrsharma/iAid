@@ -7,7 +7,7 @@
 4. Experience Cross platform ability to have a wider use 
 
 ## Application OutLooks
-<img src="https://github.com/vnmrsharma/iAid/blob/8a7cd884ae0f9726961185320aef596f15bee282/Demo/iAid.png" alt="Emergency" width="500" height="333">
+<img src="https://github.com/vnmrsharma/iAid/blob/8a7cd884ae0f9726961185320aef596f15bee282/Demo/iAid.png" alt="Emergency" width="300" height="350">
 
 
 

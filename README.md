@@ -18,4 +18,4 @@
 
 **Communication app channel**
 
-[LINE QR code] (https://i.ibb.co/SRRNBh2/i-Aid-LINE.png)
+[LINE QR code](https://i.ibb.co/SRRNBh2/i-Aid-LINE.png)

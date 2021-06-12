@@ -1,5 +1,5 @@
 # iAid
-
+<img src="https://github.com/vnmrsharma/iAid/blob/5b13e9c8aeba08e4834bd131c147721a6b166236/Demo/iAid-logo.png" alt="Logo" width="300" height="350">
 ## Installation For Application
 1. Open Andriod Studio 
 2. Download the zip code file and unzip it

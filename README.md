@@ -4,7 +4,7 @@
 1. Open Andriod Studio 
 2. Download the zip code file and unzip it
 3. Run the code(Make sure you have flutter Installed)
-4. Use Cross platform ability to have a wider use 
+4. Experience Cross platform ability to have a wider use 
 
 ## Installation For Bot
 

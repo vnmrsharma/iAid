@@ -7,8 +7,8 @@
 
 ## Application OutLooks
 <img src="https://github.com/vnmrsharma/iAid/blob/5b13e9c8aeba08e4834bd131c147721a6b166236/Demo/iAid-logo.png" alt="Logo" width="500" height="450"><br>
-<img src="https://github.com/vnmrsharma/iAid/blob/8a7cd884ae0f9726961185320aef596f15bee282/Demo/iAid.png" alt="Emergency" width="300" height="350">
-
+<img src="https://github.com/vnmrsharma/iAid/blob/8a7cd884ae0f9726961185320aef596f15bee282/Demo/iAid.png" alt="Emergency" width="300" height="350"><br>
+<img src="https://github.com/vnmrsharma/iAid/blob/5adf94d9eb9c773287d8f17a84eb889234958adb/Demo/Search.png" alt="Emergency" width="300" height="350">
 
 
 ## Installation For Bot
